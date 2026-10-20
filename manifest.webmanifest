@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "The Fourth Dimension",
+  "short_name": "4th Dimension",
+  "description": "Track where your time goes, and steer it.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4fb",
+  "theme_color": "#5a53ee",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
